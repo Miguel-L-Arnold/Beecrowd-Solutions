@@ -1,5 +1,5 @@
 # Beecrowd-Solutions
-Este repositório contém minhas soluções para os exercícios do Beecrowd, uma plataforma de treinamento em programação competitiva. Aqui você encontrará códigos em diversas linguagens de programação que resolvem os desafios propostos no Beecrowd.
+Este repositório contém minhas soluções para os exercícios do `Beecrowd`, uma plataforma de treinamento em programação competitiva. Aqui você encontrará códigos em diversas linguagens de programação que resolvem os desafios propostos no Beecrowd.
 
 ## Estrutura do Repositório
 
@@ -10,7 +10,7 @@ Este repositório contém minhas soluções para os exercícios do Beecrowd, uma
 
 Se você deseja explorar minhas soluções para um exercício específico, basta navegar até o subdiretório correspondente à categoria do exercício. Lá, você encontrará os códigos fonte e, se disponível, os arquivos de entrada e saída. 
 
-Lembre-se de que o objetivo deste repositório é fornecer exemplos de soluções, e não necessariamente as soluções mais otimizadas. Você pode estudar essas soluções como referência, aprender com elas e melhorar seu próprio código.
+Lembre-se de que o objetivo deste repositório é fornecer `exemplos de soluções`, e não necessariamente as soluções mais otimizadas. Você pode estudar essas soluções como referência, aprender com elas e melhorar seu próprio código.
 
 ## Contribuições
 
