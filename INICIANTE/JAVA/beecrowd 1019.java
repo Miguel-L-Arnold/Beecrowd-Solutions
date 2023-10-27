@@ -6,13 +6,13 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 
 		int tempoDuracaoSegundos = sc.nextInt();
-		int conta = tempoDuracaoSegundos;
+		
 
-		int horas = conta / 3600;
-		conta %= 3600;
-		int minutos = conta / 60;
-		conta %= 60;
-		int segundos = conta;
+		int horas = tempoDuracaoSegundos / 3600;
+		tempoDuracaoSegundos %= 3600;
+		int minutos = tempoDuracaoSegundos / 60;
+		tempoDuracaoSegundos %= 60;
+		int segundos = tempoDuracaoSegundos;
 
 		System.out.println(horas + ":" + minutos + ":" + segundos);
 	}
